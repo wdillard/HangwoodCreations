@@ -1,0 +1,17 @@
+* {
+    background-color: black;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1 {
+    text-align: center;
+}
+nav {
+    text-align: center;
+}
+a {
+    padding: 20px;
+}
+div {
+    text-align: center;
+}
