@@ -5,6 +5,8 @@
 }
 h1 {
     text-align: center;
+    font-size: 5rem;
+    color: white
 }
 nav {
     text-align: center;
@@ -12,6 +14,13 @@ nav {
 a {
     padding: 20px;
 }
-div {
+.showroom {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.items {
     text-align: center;
+    max-width: 40%;
+    padding: 40px;
 }
